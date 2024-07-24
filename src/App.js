@@ -49,7 +49,7 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/home">Home</Link>
+              <Link to="/home">my home</Link>
             </li>
             <li>
               <Link to="/about">About Us</Link>
